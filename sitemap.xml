@@ -1,32 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <!-- หน้า Home -->
+
   <url>
     <loc>https://garnet-trv.github.io/trv-archive/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- Entry 001 -->
   <url>
-    <loc>https://garnet-trv.github.io/trv-archive/entry001</loc>
+    <loc>https://garnet-trv.github.io/trv-archive/entry001.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Entry 002 -->
   <url>
-    <loc>https://garnet-trv.github.io/trv-archive/entry002</loc>
+    <loc>https://garnet-trv.github.io/trv-archive/entry002.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-  </url>
-
-  <!-- About T.R.V. -->
-  <url>
-    <loc>https://garnet-trv.github.io/trv-archive/about</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
   </url>
 
 </urlset>
